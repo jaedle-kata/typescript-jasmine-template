@@ -1,4 +1,4 @@
-# Kata template for javascript with jest
+# Kata template for typescript with jasmine
 
 ## Setup
 
