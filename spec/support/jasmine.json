@@ -3,8 +3,10 @@
     "**/*.spec.ts",
     "!node_modules/**/*"
   ],
-
-  "helpers": ["node_modules/ts-node/register/type-check.js"],
+  "helpers": [
+    "node_modules/ts-node/register/type-check.js",
+    "spec/helpers/**/*.js"
+  ],
   "stopSpecOnExpectationFailure": false,
   "random": true
 }

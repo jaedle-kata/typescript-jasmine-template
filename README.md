@@ -3,7 +3,7 @@
 ## Setup
 
 ```sh
-git clone https://github.com/jaedle-kata/typescript-jasmine-template
+git clone https://github.com/jaedle-kata/typescript-jasmine-template.git
 cd typescript-jasmine-template/
 rm -r .git/
 npm ci
